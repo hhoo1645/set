@@ -4,7 +4,7 @@ const ms = require('ms');
 const pms = require('pretty-ms');
 
 client.on('ready', () => {
-          client.user.setActivity("Im Miner AHMED MY OWNER🛠",{type: 'WATCHING'});
+          client.user.setActivity("Royal Gamer 7K Soon",{type: 'WATCHING'});
   
   });
 
@@ -77,8 +77,8 @@ client.on('ready', () => console.log('By Rie'));//كلام يظهر فل كون�
 //ProBot Miner V3 
 //Better Quality & Fast Mining & Better Minning = More Credits
 
-var prefix = "A";
-const pr1 = ['' , '417282734638235648' , ''];
+var prefix = "n";
+const pr1 = ['' , '407244267984125972' , ''];
 
 
 client.on('message', message => {
