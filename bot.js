@@ -14,7 +14,7 @@ client.on('ready', () => {
 
 
 
-var ServerID = "498078431972556800"; // ايدي السيرفر
+var ServerID = "475944692245200898"; // ايدي السيرفر
 var ChannelID = "508713355079319552"; // اول روم للسبام
 
 var ChannelIID = "508713378424815623"; // تاني روم للسبام
@@ -121,7 +121,7 @@ client.on('message', message => {
 
 
 client.on('ready', () => {
-  client.channels.find(ch => ch.id === "508735611671281678" && ch.type === 'voice').join();//اكتب اي دي روم صوت هنا
+  client.channels.find(ch => ch.id === "589838169537773570" && ch.type === 'voice').join();//اكتب اي دي روم صوت هنا
 });
 
 client.login(process.env.BOT_TOKEN);
